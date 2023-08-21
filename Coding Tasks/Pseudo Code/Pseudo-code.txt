@@ -13,7 +13,7 @@
 - CASE the generalization form of IF-THEN-ELSE.
 
 Example:
-![Screenshot](1.png)
+![Screenshot](./images/1.png)
 
 ## How to Write Pseudocode
 
@@ -29,7 +29,7 @@ Example:
 - Keep it simple, concise and readable.
 
 Examples:
-![Screenshot](2.png)
+![Screenshot](./images/2.png)
 
 ### Why Use Pseudocode?
 
