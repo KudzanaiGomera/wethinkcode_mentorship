@@ -1,2 +1,3 @@
 OOP - https://www.phptutorial.net/php-oop/
 SDLC - https://stackify.com/what-is-sdlc/
+Clean Code: https://www.freecodecamp.org/news/how-to-write-clean-code/
